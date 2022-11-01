@@ -1,5 +1,7 @@
 # pais-app
 
+Sistema que consome uma API usando AXIOS, componentes do VUETIFY e VUE js como framework de JavaScript
+
 ## Project setup
 ```
 npm install
